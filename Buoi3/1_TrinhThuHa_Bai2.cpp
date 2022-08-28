@@ -19,7 +19,7 @@ ARRAY::~ARRAY()
 	n = 0;
 	VALUE = NULL;
 // Hoac: delete[] VALUAE;
-	cout << " Da huy: ";
+//	cout << " Da huy: ";
 }
 
 ARRAY::ARRAY()
